@@ -29,7 +29,7 @@ class YasirRomaya {
     let languages   = ["Swift", "Objective-C"]
     let frameworks  = ["SwiftUI", "Combine", "UIKit", "TCA", "MVVM-C"]
     let ciCd        = ["Jenkins", "Fastlane"]
-    let hobbies     = ["football", "karting", "swimming", "hacking", "video games"]
+    let hobbies     = ["football", "karting", "swimming", "video games"]
 
     private init() {}
 }
