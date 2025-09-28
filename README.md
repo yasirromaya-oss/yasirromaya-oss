@@ -63,16 +63,6 @@ With 7+ years of end-to-end experience, I architect, build, and deliver robust, 
 I lead teams, mentor engineers, and set high standards for code quality, CI/CD, and user experience.  
 Open source fuels my growth and I actively contribute tools and frameworks to the community.
 
-#### Featured Projects
-<a href="https://github.com/yasirromaya-oss/DXImageSliderView">DXImageSliderView</a> &nbsp;|&nbsp; 
-<a href="https://github.com/yasirromaya-oss/DXTagsView">DXTagsView</a> &nbsp;|&nbsp; 
-<a href="https://github.com/yasirromaya-oss/DXVideoPlay">DXVideoPlay</a> &nbsp;|&nbsp; 
-<a href="https://github.com/yasirromaya-oss/shoppy">shoppy</a> &nbsp;|&nbsp; 
-<a href="https://github.com/yasirromaya-oss/square_progress_bar">square_progress_bar</a>
-
-🏆 <b>Awards:</b> Best New Mobile Internet App in Iraq (IFA)  
-📄 <b>Languages:</b> Arabic (Native), English (C1), German (A1)
-
 </div>
 
 ---
