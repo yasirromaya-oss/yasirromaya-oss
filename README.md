@@ -58,7 +58,7 @@ class YasirRomaya {
 
 ### 👨‍💻 About Me
 
-<b>Senior iOS Developer | Technical Lead | Open Source Advocate</b>  
+<b>Senior iOS Software Engineer</b>  
 With 7+ years of end-to-end experience, I architect, build, and deliver robust, scalable iOS solutions—across Automotive, media streaming, food delivery, and FTTH domains.  
 I lead teams, mentor engineers, and set high standards for code quality, CI/CD, and user experience.  
 Open source fuels my growth and I actively contribute tools and frameworks to the community.
