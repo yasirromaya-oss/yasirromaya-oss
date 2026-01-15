@@ -39,15 +39,6 @@ class YasirRomaya {
 
 <div align="center">
   <a href="https://yasirromaya.me/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=yasirromaya-oss&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirromaya-oss&theme=gruvbox&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://yasirromaya.me/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirromaya-oss&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" alt="Yasir Romaya's Activity Graph"/>
   </a>
 </div>
@@ -58,10 +49,8 @@ class YasirRomaya {
 
 ### 👨‍💻 About Me
 
-<b>Senior iOS Software Engineer</b>  
-With 7+ years of end-to-end experience, I architect, build, and deliver robust, scalable iOS solutions—across Automotive, media streaming, food delivery, and FTTH domains.  
-I lead teams, mentor engineers, and set high standards for code quality, CI/CD, and user experience.  
-Open source fuels my growth and I actively contribute tools and frameworks to the community.
+<b>Senior iOS Engineer</b>  
+7+ years of experience building high-performance, modular iOS apps and frameworks. Expert in Swift, SwiftUI, Combine, Clean Architecture, and XCFrameworks, with a strong track record in API design, performance optimization, and team mentorship.
 
 </div>
 
