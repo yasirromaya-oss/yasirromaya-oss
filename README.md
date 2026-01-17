@@ -49,8 +49,7 @@ class YasirRomaya {
 
 ### 👨‍💻 About Me
 
-<b>Senior iOS Engineer</b>  
-7+ years of experience building high-performance, modular iOS apps and frameworks. Expert in Swift, SwiftUI, Combine, Clean Architecture, and XCFrameworks, with a strong track record in API design, performance optimization, and team mentorship.
+Senior iOS Engineer with 6+ years of experience building high-performance, modular iOS apps and frameworks. Expert in Swift, SwiftUI, Combine, TCA, MVVM-C, Clean Architecture, and XCFramework, with a strong track record in API design, performance optimization, and team mentorship. Passionate about building scalable iOS architectures, designing clean and resilient APIs, and turning complex system constraints into simple, reliable developer experiences. improving team efficiency through mentorship and automation, and delivering solutions that scale across products and organizations.
 
 </div>
 
